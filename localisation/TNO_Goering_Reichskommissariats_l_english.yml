@@ -78,7 +78,7 @@
  
  RKA_national_socialism:0 "아라비아 국가판무관무"
  RKA_national_socialism_DEF:0 "아라비아 국가판무관무"
- RKA_national_socialism_ADJ:0 "독일꼐"
+ RKA_national_socialism_ADJ:0 "독일계"
  RKA_fascism:0 "아라비아 국가판무관무"
  RKA_fascism_DEF:0 "아라비아 국가판무관무"
  RKA_fascism_ADJ:0 "독일계"
@@ -184,7 +184,7 @@
  GCR_fascism_ADJ:0 "독일계"
  GCR_ultranational_socialism:0 "카리브 국가판무관부"
  GCR_ultranational_socialism_DEF:0 "카리브 국가판무관부"
- GCR_ultranational_socialism_ADJ:0 "독일ㅍ"
+ GCR_ultranational_socialism_ADJ:0 "독일계"
  
  GKA_national_socialism:0 "카탈로니아 국가판무관부"
  GKA_national_socialism_DEF:0 "카탈로니아 국가판무관부"
@@ -198,7 +198,7 @@
  
  RKK_national_socialism:0 "소아시아 국가판무관부"
  RKK_national_socialism_DEF:0 "소아시아 국가판무관부"
- RKK_national_socialism_ADJ:0 "독일ㅍ"
+ RKK_national_socialism_ADJ:0 "독일계"
  RKK_fascism:0 "소아시아 국가판무관부"
  RKK_fascism_DEF:0 "소아시아 국가판무관부"
  RKK_fascism_ADJ:0 "독일계"
@@ -208,7 +208,7 @@
  
  GKO_national_socialism:0 "코리아 국가판무관부"
  GKO_national_socialism_DEF:0 "코리아 국가판무관부"
- GKO_national_socialism_ADJ:0 "독일ㅍ"
+ GKO_national_socialism_ADJ:0 "독일계"
  GKO_fascism:0 "코리아 국가판무관부"
  GKO_fascism_DEF:0 "코리아 국가판무관부"
  GKO_fascism_ADJ:0 "독일계"
